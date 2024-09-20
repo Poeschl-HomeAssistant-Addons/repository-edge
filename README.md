@@ -37,6 +37,13 @@ This is a simple companion service for valetudo which generates the map pngs.
 
 These addons will not be updated anymore. Feel free to fork them.
 
+### 🕸 [Asterisk][asterisk-files]
+
+![Latest Version][asterisk-version-badge]
+
+(Deprecated) Asterisk is an open source framework for building communications applications. Asterisk turns an ordinary computer into a communications server
+
+[![Asterisk add-on documentation][addon-docs-badge]][asterisk-doc]
 
 ## Installation
 
@@ -58,6 +65,7 @@ You can also install them over the buttons in the Readmes of the addon folders.
 
 If you are here, seeking help, please look at the issues of the specific addon.
 
+- [Issues of Asterisk][asterisk-issue]
 - [Issues of ICantBelieveItsNotValetudo][icantbelieveitsnotvaletudo-issue]
 
 [project-stage-badge]: https://img.shields.io/badge/project%20stage-🧪%20experimental-yellow.svg
@@ -77,6 +85,15 @@ If you are here, seeking help, please look at the issues of the specific addon.
 
 [addon-docs-badge]: https://img.shields.io/badge/Documentation-41BDF5?style=for-the-badge
 
+[asterisk-files]: https://github.com/Poeschl-HomeAssistant-Addons/asterisk/tree/v1.1.1
+[asterisk-doc]: https://github.com/Poeschl-HomeAssistant-Addons/asterisk/blob/v1.1.1/README.md
+[asterisk-issue]: https://github.com/Poeschl-HomeAssistant-Addons/asterisk/issues
+[asterisk-version-badge]: https://img.shields.io/badge/version-v1.1.1-blue.svg
+[asterisk-aarch64-badge]: https://img.shields.io/badge/aarch64-yes-green.svg
+[asterisk-amd64-badge]: https://img.shields.io/badge/amd64-yes-green.svg
+[asterisk-armhf-badge]: https://img.shields.io/badge/armhf-yes-green.svg
+[asterisk-armv7-badge]: https://img.shields.io/badge/armv7-yes-green.svg
+[asterisk-i386-badge]: https://img.shields.io/badge/i386-yes-green.svg
 [icantbelieveitsnotvaletudo-files]: https://github.com/Poeschl-HomeAssistant-Addons/ICantBelieveItsNotValetudo/tree/v4.0.1
 [icantbelieveitsnotvaletudo-doc]: https://github.com/Poeschl-HomeAssistant-Addons/ICantBelieveItsNotValetudo/blob/v4.0.1/README.md
 [icantbelieveitsnotvaletudo-issue]: https://github.com/Poeschl-HomeAssistant-Addons/ICantBelieveItsNotValetudo/issues
