@@ -16,30 +16,25 @@ builds add-ons are based upon the latest development version.
 - They might stop working at any time.
 - They could have a negative impact on your system.
 
-For the stable version of the addons: [Stable-Repository](https://github.com/Poeschl-HomeAssistant-Addons/repository)
-
+For the stable version of the add-ons: [Stable-Repository]
 
 ## Addons available
 
 
-
-### 🕸️ Deprecated
+## Deprecated Addons
 
 These addons will not be updated anymore. Feel free to fork them.
 
-- Docker Container Stats - Lightwight monitoring of all the running docker containers.
-- OWASP ZAP - A security testing tool with MITM funtionality.
-- mitmproxy - A simple MITM proxy to trace network requests.
 
 ## Installation
 
-To install any of the add-ons offered in this repository, you must first add its repository URL to your Home Assistant instance. To do so, click the following button
+To install any of the add-ons offered in this repository, you must first add its repository URL to your Home Assistant instance. To do so, click the following button:
 
 [![Add repository to your Home Assistant instance.][repository-badge]][repository-url]
 
-or manually add the the following repository URL in the Home Assistant add-on store:
+or manually add the following repository URL in the Home Assistant add-on store:
 
-`https://github.com/Poeschl/Hassio-Addons`
+`https://github.com/Poeschl-HomeAssistant-Addons/repository-edge`
 
 Then search for any of the add-ons in our addon store (button below) to install them.
 
@@ -49,13 +44,13 @@ You can also install them over the buttons in the Readmes of the addon folders.
 
 ## Support
 
-If you are here, seeking for help, please look at the issues of the specific addon.
+If you are here, seeking help, please look at the issues of the specific addon.
 
-- 
 
 [project-stage-badge]: https://img.shields.io/badge/project%20stage-🧪%20experimental-yellow.svg
-[commit-badge]: https://img.shields.io/github/commit-activity/m/Poeschl/Hassio-Addons
-[licence-badge]: https://img.shields.io/github/license/Poeschl/Hassio-Addons
+[commit-badge]: https://img.shields.io/github/commit-activity/m/Poeschl-HomeAssistant-Addons/repository
+[licence-badge]: https://img.shields.io/github/license/Poeschl-HomeAssistant-Addons/repository
+[Stable-Repository]: https://github.com/Poeschl-HomeAssistant-Addons/repository
 
 [statistics-badge]: https://img.shields.io/badge/-usage_statistics-41BDF5.svg?style=for-the-badge
 [statistics-url]: https://addonstats.poeschl.xyz?filter=243ffc37
@@ -63,6 +58,9 @@ If you are here, seeking for help, please look at the issues of the specific add
 [donation-url]: https://www.buymeacoffee.com/Poeschl
 
 [repository-badge]: https://img.shields.io/badge/Add_addon_repository_to_my-Home%20Assistant-41BDF5?logo=home-assistant&style=for-the-badge
-[repository-url]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FPoeschl%2FHassio-Addons
+[repository-url]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A//github.com/Poeschl-HomeAssistant-Addons/repository-edge
 [addon-store-url]: https://my.home-assistant.io/redirect/supervisor_store/
 [addon-store-badge]: https://img.shields.io/badge/Open_Addon_store_on_my-Home%20Assistant-41BDF5?logo=home-assistant&style=for-the-badge
+
+[addon-docs-badge]: https://img.shields.io/badge/Documentation-41BDF5?style=for-the-badge
+
