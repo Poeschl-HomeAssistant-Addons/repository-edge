@@ -1,6 +1,6 @@
 {
   "name": "Asterisk",
-  "version": "1.1.1",
+  "version": "7081c5f",
   "slug": "asterisk",
   "description": "(Deprecated) Asterisk is an open source framework for building communications applications. Asterisk turns an ordinary computer into a communications server",
   "url": "https://github.com/Poeschl-HomeAssistant-Addons/asterisk",
@@ -11,7 +11,7 @@
     "amd64",
     "i386"
   ],
-  "image": "ghcr.io/poeschl-homeAssistant-addons/asterisk-{arch}",
+  "image": "ghcr.io/poeschl-homeassistant-addons/asterisk-{arch}",
   "map": [
     "share",
     "config"

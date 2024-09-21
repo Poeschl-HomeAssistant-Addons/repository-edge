@@ -106,10 +106,10 @@ If you are here, seeking help, please look at the issues of the specific addon.
 
 [addon-docs-badge]: https://img.shields.io/badge/Documentation-41BDF5?style=for-the-badge
 
-[asterisk-files]: https://github.com/Poeschl-HomeAssistant-Addons/asterisk/tree/v1.1.1
-[asterisk-doc]: https://github.com/Poeschl-HomeAssistant-Addons/asterisk/blob/v1.1.1/README.md
+[asterisk-files]: https://github.com/Poeschl-HomeAssistant-Addons/asterisk/tree/7081c5f
+[asterisk-doc]: https://github.com/Poeschl-HomeAssistant-Addons/asterisk/blob/7081c5f/README.md
 [asterisk-issue]: https://github.com/Poeschl-HomeAssistant-Addons/asterisk/issues
-[asterisk-version-badge]: https://img.shields.io/badge/version-v1.1.1-blue.svg
+[asterisk-version-badge]: https://img.shields.io/badge/version-7081c5f-blue.svg
 [asterisk-aarch64-badge]: https://img.shields.io/badge/aarch64-yes-green.svg
 [asterisk-amd64-badge]: https://img.shields.io/badge/amd64-yes-green.svg
 [asterisk-armhf-badge]: https://img.shields.io/badge/armhf-yes-green.svg
