@@ -133,10 +133,10 @@ If you are here, seeking help, please look at the issues of the specific addon.
 [git-exporter-armhf-badge]: https://img.shields.io/badge/armhf-yes-green.svg
 [git-exporter-armv7-badge]: https://img.shields.io/badge/armv7-yes-green.svg
 [git-exporter-i386-badge]: https://img.shields.io/badge/i386-yes-green.svg
-[icantbelieveitsnotvaletudo-files]: https://github.com/Poeschl-HomeAssistant-Addons/ICantBelieveItsNotValetudo/tree/5d7887a
-[icantbelieveitsnotvaletudo-doc]: https://github.com/Poeschl-HomeAssistant-Addons/ICantBelieveItsNotValetudo/blob/5d7887a/README.md
+[icantbelieveitsnotvaletudo-files]: https://github.com/Poeschl-HomeAssistant-Addons/ICantBelieveItsNotValetudo/tree/0780e07
+[icantbelieveitsnotvaletudo-doc]: https://github.com/Poeschl-HomeAssistant-Addons/ICantBelieveItsNotValetudo/blob/0780e07/README.md
 [icantbelieveitsnotvaletudo-issue]: https://github.com/Poeschl-HomeAssistant-Addons/ICantBelieveItsNotValetudo/issues
-[icantbelieveitsnotvaletudo-version-badge]: https://img.shields.io/badge/version-5d7887a-blue.svg
+[icantbelieveitsnotvaletudo-version-badge]: https://img.shields.io/badge/version-0780e07-blue.svg
 [icantbelieveitsnotvaletudo-aarch64-badge]: https://img.shields.io/badge/aarch64-yes-green.svg
 [icantbelieveitsnotvaletudo-amd64-badge]: https://img.shields.io/badge/amd64-yes-green.svg
 [icantbelieveitsnotvaletudo-armhf-badge]: https://img.shields.io/badge/armhf-no-red.svg
