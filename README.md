@@ -77,12 +77,12 @@ If you are here, seeking help, please look at the issues of the specific addon.
 - [Issues of ICantBelieveItsNotValetudo][icantbelieveitsnotvaletudo-issue]
 
 [project-stage-badge]: https://img.shields.io/badge/project%20stage-🧪%20experimental-yellow.svg
-[commit-badge]: https://img.shields.io/github/commit-activity/m/Poeschl-HomeAssistant-Addons/repository
-[licence-badge]: https://img.shields.io/github/license/Poeschl-HomeAssistant-Addons/repository
+[commit-badge]: https://img.shields.io/github/commit-activity/m/Poeschl-HomeAssistant-Addons/repository-edge
+[licence-badge]: https://img.shields.io/github/license/Poeschl-HomeAssistant-Addons/repository-edge
 [Stable-Repository]: https://github.com/Poeschl-HomeAssistant-Addons/repository
 
 [statistics-badge]: https://img.shields.io/badge/-usage_statistics-41BDF5.svg?style=for-the-badge
-[statistics-url]: https://addonstats.poeschl.xyz?filter=243ffc37
+[statistics-url]: https://addonstats.poeschl.xyz?filter=5da6a583
 [donation-badge]: https://img.shields.io/badge/Buy%20me%20a%20coffee-%23d32f2f?logo=buy-me-a-coffee&style=for-the-badge&logoColor=white
 [donation-url]: https://www.buymeacoffee.com/Poeschl
 
