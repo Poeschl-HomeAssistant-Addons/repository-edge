@@ -1,5 +1,5 @@
 name: ICantBelieveItsNotValetudo
-version: 4.0.1
+version: 5d7887a
 slug: icantbelieveitsnotvaletudo
 description: This is a simple companion service for valetudo which generates the map
   pngs.
@@ -9,7 +9,7 @@ arch:
 - aarch64
 - amd64
 - i386
-image: ghcr.io/poeschl-homeAssistant-addons/icantbelieveitsnotvaletudo-{arch}
+image: ghcr.io/poeschl-homeassistant-addons/icantbelieveitsnotvaletudo-{arch}
 ports:
   8080/tcp: null
 ports_description:

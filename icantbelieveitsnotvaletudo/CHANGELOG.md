@@ -1,5 +1,2 @@
-## Changes in this version
-
-### ⬆️ Dependency updates
-
-- ⬆️ Multiple dependency updates :) @Poeschl ([#1](https://github.com/Poeschl-HomeAssistant-Addons/ICantBelieveItsNotValetudo/pull/1))
+# Changelog since 4.0.1
+- 🐛 Fix install url 
