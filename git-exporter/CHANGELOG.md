@@ -1,6 +1,5 @@
-# Changelog since 1.17.0
-- 💚 Add missing permissions for label sync 
-- Merge pull request #1 from Poeschl-HomeAssistant-Addons/update-packages
+## Changes in this version
 
-⬆️ Update python3 to 22.1.1-r0 
-- ⬆️ Update python3 to 22.1.1-r0 
+### ⬆️ Dependency updates
+
+- ⬆️ Update python3 to 22.1.1-r0 @Poeschl ([#1](https://github.com/Poeschl-HomeAssistant-Addons/git-exporter/pull/1))
