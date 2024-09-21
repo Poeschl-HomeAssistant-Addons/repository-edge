@@ -124,10 +124,10 @@ If you are here, seeking help, please look at the issues of the specific addon.
 [container-stats-armhf-badge]: https://img.shields.io/badge/armhf-yes-green.svg
 [container-stats-armv7-badge]: https://img.shields.io/badge/armv7-yes-green.svg
 [container-stats-i386-badge]: https://img.shields.io/badge/i386-yes-green.svg
-[git-exporter-files]: https://github.com/Poeschl-HomeAssistant-Addons/git-exporter/tree/v1.17.0
-[git-exporter-doc]: https://github.com/Poeschl-HomeAssistant-Addons/git-exporter/blob/v1.17.0/README.md
+[git-exporter-files]: https://github.com/Poeschl-HomeAssistant-Addons/git-exporter/tree/f8a77e7
+[git-exporter-doc]: https://github.com/Poeschl-HomeAssistant-Addons/git-exporter/blob/f8a77e7/README.md
 [git-exporter-issue]: https://github.com/Poeschl-HomeAssistant-Addons/git-exporter/issues
-[git-exporter-version-badge]: https://img.shields.io/badge/version-v1.17.0-blue.svg
+[git-exporter-version-badge]: https://img.shields.io/badge/version-f8a77e7-blue.svg
 [git-exporter-aarch64-badge]: https://img.shields.io/badge/aarch64-yes-green.svg
 [git-exporter-amd64-badge]: https://img.shields.io/badge/amd64-yes-green.svg
 [git-exporter-armhf-badge]: https://img.shields.io/badge/armhf-yes-green.svg
