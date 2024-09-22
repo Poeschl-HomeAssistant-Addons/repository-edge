@@ -141,10 +141,10 @@ If you are here, seeking help, please look at the issues of the specific addon.
 [asterisk-armhf-badge]: https://img.shields.io/badge/armhf-yes-green.svg
 [asterisk-armv7-badge]: https://img.shields.io/badge/armv7-yes-green.svg
 [asterisk-i386-badge]: https://img.shields.io/badge/i386-yes-green.svg
-[container-stats-files]: https://github.com/Poeschl-HomeAssistant-Addons/container-stats/tree/0c7b356
-[container-stats-doc]: https://github.com/Poeschl-HomeAssistant-Addons/container-stats/blob/0c7b356/README.md
+[container-stats-files]: https://github.com/Poeschl-HomeAssistant-Addons/container-stats/tree/43d36bd
+[container-stats-doc]: https://github.com/Poeschl-HomeAssistant-Addons/container-stats/blob/43d36bd/README.md
 [container-stats-issue]: https://github.com/Poeschl-HomeAssistant-Addons/container-stats/issues
-[container-stats-version-badge]: https://img.shields.io/badge/version-0c7b356-blue.svg
+[container-stats-version-badge]: https://img.shields.io/badge/version-43d36bd-blue.svg
 [container-stats-aarch64-badge]: https://img.shields.io/badge/aarch64-yes-green.svg
 [container-stats-amd64-badge]: https://img.shields.io/badge/amd64-yes-green.svg
 [container-stats-armhf-badge]: https://img.shields.io/badge/armhf-yes-green.svg
