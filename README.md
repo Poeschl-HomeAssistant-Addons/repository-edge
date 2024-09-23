@@ -140,6 +140,18 @@ Control your pwm leds with pigpio on Home Assistant
 Sync folders to a remote machine via ssh and rsync.
 
 [![rsync add-on documentation][addon-docs-badge]][rsync-doc]
+### 🧩 [rsync local][rsync-local-files]
+
+![Latest Version][rsync-local-version-badge]
+![Supports aarch64 Architecture][rsync-local-aarch64-badge]
+![Supports amd64 Architecture][rsync-local-amd64-badge]
+![Supports armhf Architecture][rsync-local-armhf-badge]
+![Supports armv7 Architecture][rsync-local-armv7-badge]
+![Supports i386 Architecture][rsync-local-i386-badge]
+
+Sync folders to a external usb drive with rsync.
+
+[![rsync local add-on documentation][addon-docs-badge]][rsync-local-doc]
 
 ## Deprecated Addons
 
@@ -208,6 +220,7 @@ If you are here, seeking help, please look at the issues of the specific addon.
 - [Issues of mitmproxy][mitmproxy-issue]
 - [Issues of pigpio][pigpio-issue]
 - [Issues of rsync][rsync-issue]
+- [Issues of rsync local][rsync-local-issue]
 
 [project-stage-badge]: https://img.shields.io/badge/project%20stage-🧪%20experimental-yellow.svg
 [commit-badge]: https://img.shields.io/github/commit-activity/m/Poeschl-HomeAssistant-Addons/repository-edge
@@ -352,3 +365,12 @@ If you are here, seeking help, please look at the issues of the specific addon.
 [rsync-armhf-badge]: https://img.shields.io/badge/armhf-yes-green.svg
 [rsync-armv7-badge]: https://img.shields.io/badge/armv7-yes-green.svg
 [rsync-i386-badge]: https://img.shields.io/badge/i386-yes-green.svg
+[rsync-local-files]: https://github.com/Poeschl-HomeAssistant-Addons/rsync-local/tree/v1.7.0
+[rsync-local-doc]: https://github.com/Poeschl-HomeAssistant-Addons/rsync-local/blob/v1.7.0/README.md
+[rsync-local-issue]: https://github.com/Poeschl-HomeAssistant-Addons/rsync-local/issues
+[rsync-local-version-badge]: https://img.shields.io/badge/version-v1.7.0-blue.svg
+[rsync-local-aarch64-badge]: https://img.shields.io/badge/aarch64-yes-green.svg
+[rsync-local-amd64-badge]: https://img.shields.io/badge/amd64-yes-green.svg
+[rsync-local-armhf-badge]: https://img.shields.io/badge/armhf-yes-green.svg
+[rsync-local-armv7-badge]: https://img.shields.io/badge/armv7-yes-green.svg
+[rsync-local-i386-badge]: https://img.shields.io/badge/i386-yes-green.svg
