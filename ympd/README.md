@@ -22,8 +22,8 @@ For the stable version of the add-ons: [Stable-Repository]
 
 [stage-badge]: https://img.shields.io/badge/Addon%20stage-stable-green.svg
 
-[release-badge]: https://img.shields.io/badge/version-a307ea0-blue.svg
-[release]: https://github.com/Poeschl-HomeAssistant-Addons/ympd/tree/a307ea0
+[release-badge]: https://img.shields.io/badge/version-v1.5.1-blue.svg
+[release]: https://github.com/Poeschl-HomeAssistant-Addons/ympd/tree/v1.5.1
 
 [donation-badge]: https://img.shields.io/badge/Buy%20me%20a%20coffee-%23d32f2f?logo=buy-me-a-coffee&style=for-the-badge&logoColor=white
 [donation-url]: https://www.buymeacoffee.com/Poeschl
