@@ -1,5 +1,5 @@
 name: MPD
-version: c1d62c7
+version: b63026e
 slug: mpd
 panel_icon: mdi:music-circle
 description: Music Player Daemon is a free and open source music player. It plays

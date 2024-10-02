@@ -327,10 +327,10 @@ If you are here, seeking help, please look at the issues of the specific addon.
 [icantbelieveitsnotvaletudo-armhf-badge]: https://img.shields.io/badge/armhf-no-red.svg
 [icantbelieveitsnotvaletudo-armv7-badge]: https://img.shields.io/badge/armv7-yes-green.svg
 [icantbelieveitsnotvaletudo-i386-badge]: https://img.shields.io/badge/i386-yes-green.svg
-[mpd-files]: https://github.com/Poeschl-HomeAssistant-Addons/mpd/tree/c1d62c7
-[mpd-doc]: https://github.com/Poeschl-HomeAssistant-Addons/mpd/blob/c1d62c7/README.md
+[mpd-files]: https://github.com/Poeschl-HomeAssistant-Addons/mpd/tree/b63026e
+[mpd-doc]: https://github.com/Poeschl-HomeAssistant-Addons/mpd/blob/b63026e/README.md
 [mpd-issue]: https://github.com/Poeschl-HomeAssistant-Addons/mpd/issues
-[mpd-version-badge]: https://img.shields.io/badge/version-c1d62c7-blue.svg
+[mpd-version-badge]: https://img.shields.io/badge/version-b63026e-blue.svg
 [mpd-aarch64-badge]: https://img.shields.io/badge/aarch64-yes-green.svg
 [mpd-amd64-badge]: https://img.shields.io/badge/amd64-yes-green.svg
 [mpd-armhf-badge]: https://img.shields.io/badge/armhf-yes-green.svg
