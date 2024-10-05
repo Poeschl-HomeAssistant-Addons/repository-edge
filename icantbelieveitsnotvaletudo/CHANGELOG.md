@@ -1,3 +1,5 @@
-# Changelog since 4.0.1
-- 💚 Fix permissions for label sync 
-- 🐛 Fix install url 
+## Changes in this version
+
+### ⬆️ Dependency updates
+
+- ⬆️ Update ICantBelieveItsNotValetudo to 2023.08.0 @mihsu81 ([#2](https://github.com/Poeschl-HomeAssistant-Addons/icantbelieveitsnotvaletudo/pull/2))
