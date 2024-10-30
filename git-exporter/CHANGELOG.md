@@ -1,5 +1,5 @@
-## Changes in this version
+# Changelog since 1.17.1
+- Merge pull request #2 from Poeschl-HomeAssistant-Addons/add-package-updater
 
-### ⬆️ Dependency updates
-
-- ⬆️ Update python3 to 22.1.1-r0 @Poeschl ([#1](https://github.com/Poeschl-HomeAssistant-Addons/git-exporter/pull/1))
+👷 Add package updater action 
+- 👷 Add package updater action 
