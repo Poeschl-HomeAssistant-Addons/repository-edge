@@ -1,4 +1,5 @@
 # Changelog since 1.19.1
+- ♻️ Remove token for package update 
 - 🚨 Make the yamllint happy 
 - Merge pull request #3 from Poeschl-HomeAssistant-Addons/containerfile-dependency/syncthing
 
