@@ -390,10 +390,10 @@ If you are here, seeking help, please look at the issues of the specific addon.
 [pixelflut-armhf-badge]: https://img.shields.io/badge/armhf-yes-green.svg
 [pixelflut-armv7-badge]: https://img.shields.io/badge/armv7-yes-green.svg
 [pixelflut-i386-badge]: https://img.shields.io/badge/i386-yes-green.svg
-[syncthing-files]: https://github.com/Poeschl-HomeAssistant-Addons/syncthing/tree/064b34a
-[syncthing-doc]: https://github.com/Poeschl-HomeAssistant-Addons/syncthing/blob/064b34a/README.md
+[syncthing-files]: https://github.com/Poeschl-HomeAssistant-Addons/syncthing/tree/v1.19.2
+[syncthing-doc]: https://github.com/Poeschl-HomeAssistant-Addons/syncthing/blob/v1.19.2/README.md
 [syncthing-issue]: https://github.com/Poeschl-HomeAssistant-Addons/syncthing/issues
-[syncthing-version-badge]: https://img.shields.io/badge/version-064b34a-blue.svg
+[syncthing-version-badge]: https://img.shields.io/badge/version-v1.19.2-blue.svg
 [syncthing-aarch64-badge]: https://img.shields.io/badge/aarch64-yes-green.svg
 [syncthing-amd64-badge]: https://img.shields.io/badge/amd64-yes-green.svg
 [syncthing-armhf-badge]: https://img.shields.io/badge/armhf-yes-green.svg

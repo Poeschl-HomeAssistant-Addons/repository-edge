@@ -1,14 +1,9 @@
-# Changelog since 1.19.1
-- ♻️ Remove token for package update 
-- 🚨 Make the yamllint happy 
-- Merge pull request #3 from Poeschl-HomeAssistant-Addons/containerfile-dependency/syncthing
+## Changes in this version
 
-⬆️ Update syncthing to version 1.28.0-r0 
-- ⬆️ Update syncthing to version 1.28.0-r0 
-- ♻️ Switch package update token 
-- 🐛 Fix update action branch 
-- Merge pull request #2 from Poeschl-HomeAssistant-Addons/add-experimental-package-update-action
+### 🔨 Maintenance
 
-✨ Add package updater action for Dockerfile 
-- ♻️  Move update logic to workflows 
-- ✨ Add package updater action for Dockerfile 
+- ✨ Add package updater action for Dockerfile @Poeschl ([#2](https://github.com/Poeschl-HomeAssistant-Addons/syncthing/pull/2))
+
+### ⬆️ Dependency updates
+
+- ⬆️ Update syncthing to version 1.28.0-r0 @github-actions ([#3](https://github.com/Poeschl-HomeAssistant-Addons/syncthing/pull/3))
