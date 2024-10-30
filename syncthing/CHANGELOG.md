@@ -1,4 +1,5 @@
 # Changelog since 1.19.1
+- 🚨 Make the yamllint happy 
 - Merge pull request #3 from Poeschl-HomeAssistant-Addons/containerfile-dependency/syncthing
 
 ⬆️ Update syncthing to version 1.28.0-r0 
