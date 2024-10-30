@@ -1,5 +1,5 @@
-## Changes in this version
+# Changelog since 4.1.0
+- Merge pull request #3 from Poeschl-HomeAssistant-Addons/add-package-updater
 
-### ⬆️ Dependency updates
-
-- ⬆️ Update ICantBelieveItsNotValetudo to 2023.08.0 @mihsu81 ([#2](https://github.com/Poeschl-HomeAssistant-Addons/icantbelieveitsnotvaletudo/pull/2))
+👷 Add package updater action 
+- 👷 Add package updater action 
