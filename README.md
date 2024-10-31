@@ -453,10 +453,10 @@ If you are here, seeking help, please look at the issues of the specific addon.
 [rsync-local-armhf-badge]: https://img.shields.io/badge/armhf-yes-green.svg
 [rsync-local-armv7-badge]: https://img.shields.io/badge/armv7-yes-green.svg
 [rsync-local-i386-badge]: https://img.shields.io/badge/i386-yes-green.svg
-[ympd-files]: https://github.com/Poeschl-HomeAssistant-Addons/ympd/tree/v1.5.1
-[ympd-doc]: https://github.com/Poeschl-HomeAssistant-Addons/ympd/blob/v1.5.1/README.md
+[ympd-files]: https://github.com/Poeschl-HomeAssistant-Addons/ympd/tree/0e14e83
+[ympd-doc]: https://github.com/Poeschl-HomeAssistant-Addons/ympd/blob/0e14e83/README.md
 [ympd-issue]: https://github.com/Poeschl-HomeAssistant-Addons/ympd/issues
-[ympd-version-badge]: https://img.shields.io/badge/version-v1.5.1-blue.svg
+[ympd-version-badge]: https://img.shields.io/badge/version-0e14e83-blue.svg
 [ympd-aarch64-badge]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ympd-amd64-badge]: https://img.shields.io/badge/amd64-yes-green.svg
 [ympd-armhf-badge]: https://img.shields.io/badge/armhf-yes-green.svg
