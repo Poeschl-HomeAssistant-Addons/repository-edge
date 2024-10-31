@@ -372,10 +372,10 @@ If you are here, seeking help, please look at the issues of the specific addon.
 [owasp-zap-armhf-badge]: https://img.shields.io/badge/armhf-no-red.svg
 [owasp-zap-armv7-badge]: https://img.shields.io/badge/armv7-yes-green.svg
 [owasp-zap-i386-badge]: https://img.shields.io/badge/i386-no-red.svg
-[picotts-files]: https://github.com/Poeschl-HomeAssistant-Addons/picotts/tree/v1.6.1
-[picotts-doc]: https://github.com/Poeschl-HomeAssistant-Addons/picotts/blob/v1.6.1/README.md
+[picotts-files]: https://github.com/Poeschl-HomeAssistant-Addons/picotts/tree/f003e8f
+[picotts-doc]: https://github.com/Poeschl-HomeAssistant-Addons/picotts/blob/f003e8f/README.md
 [picotts-issue]: https://github.com/Poeschl-HomeAssistant-Addons/picotts/issues
-[picotts-version-badge]: https://img.shields.io/badge/version-v1.6.1-blue.svg
+[picotts-version-badge]: https://img.shields.io/badge/version-f003e8f-blue.svg
 [picotts-aarch64-badge]: https://img.shields.io/badge/aarch64-yes-green.svg
 [picotts-amd64-badge]: https://img.shields.io/badge/amd64-yes-green.svg
 [picotts-armhf-badge]: https://img.shields.io/badge/armhf-yes-green.svg

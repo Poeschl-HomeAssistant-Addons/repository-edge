@@ -1,5 +1,5 @@
-## Changes in this version
+# Changelog since 1.6.1
+- Merge pull request #2 from Poeschl-HomeAssistant-Addons/add-package-updater
 
-### ⬆️ Dependency updates
-
-- ⬆️ Upgraded dependencies and enabled dependabot @Poeschl ([#1](https://github.com/Poeschl-HomeAssistant-Addons/picotts/pull/1))
+👷 Add package updater action 
+- 👷 Add package updater action 
