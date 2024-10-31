@@ -1,5 +1,5 @@
-## Changes in this version
+# Changelog since 1.5.3
+- Merge pull request #3 from Poeschl-HomeAssistant-Addons/add-package-updater
 
-### ⬆️ Dependency updates
-
-- ⬆️ Updated os packages @Poeschl ([#1](https://github.com/Poeschl-HomeAssistant-Addons/pigpio/pull/1))
+👷 Add package updater action 
+- 👷 Add package updater action 

@@ -426,10 +426,10 @@ If you are here, seeking help, please look at the issues of the specific addon.
 [mitmproxy-armhf-badge]: https://img.shields.io/badge/armhf-yes-green.svg
 [mitmproxy-armv7-badge]: https://img.shields.io/badge/armv7-yes-green.svg
 [mitmproxy-i386-badge]: https://img.shields.io/badge/i386-yes-green.svg
-[pigpio-files]: https://github.com/Poeschl-HomeAssistant-Addons/pigpio/tree/v1.5.3
-[pigpio-doc]: https://github.com/Poeschl-HomeAssistant-Addons/pigpio/blob/v1.5.3/README.md
+[pigpio-files]: https://github.com/Poeschl-HomeAssistant-Addons/pigpio/tree/caf519a
+[pigpio-doc]: https://github.com/Poeschl-HomeAssistant-Addons/pigpio/blob/caf519a/README.md
 [pigpio-issue]: https://github.com/Poeschl-HomeAssistant-Addons/pigpio/issues
-[pigpio-version-badge]: https://img.shields.io/badge/version-v1.5.3-blue.svg
+[pigpio-version-badge]: https://img.shields.io/badge/version-caf519a-blue.svg
 [pigpio-aarch64-badge]: https://img.shields.io/badge/aarch64-yes-green.svg
 [pigpio-amd64-badge]: https://img.shields.io/badge/amd64-no-red.svg
 [pigpio-armhf-badge]: https://img.shields.io/badge/armhf-yes-green.svg
