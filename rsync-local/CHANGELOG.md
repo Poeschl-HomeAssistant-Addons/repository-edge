@@ -1,5 +1,5 @@
-## Changes in this version
+# Changelog since 1.7.1
+- Merge pull request #3 from Poeschl-HomeAssistant-Addons/add-package-updater
 
-### ⬆️ Dependency updates
-
-- ⬆️ Update coreutils to 9.3-r2 @Poeschl ([#1](https://github.com/Poeschl-HomeAssistant-Addons/rsync-local/pull/1))
+👷 Add package updater action 
+- 👷 Add package updater action 
