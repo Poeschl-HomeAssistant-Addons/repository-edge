@@ -1,5 +1,5 @@
-## Changes in this version
+# Changelog since 1.2.2
+- Merge pull request #2 from Poeschl-HomeAssistant-Addons/add-package-updater
 
-### ⬆️ Dependency updates
-
-- ⬆️ Update os packages @Poeschl ([#1](https://github.com/Poeschl-HomeAssistant-Addons/pixelflut/pull/1))
+👷 Add package updater action 
+- 👷 Add package updater action 
