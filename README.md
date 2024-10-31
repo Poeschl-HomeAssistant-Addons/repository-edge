@@ -408,10 +408,10 @@ If you are here, seeking help, please look at the issues of the specific addon.
 [vnc-viewer-armhf-badge]: https://img.shields.io/badge/armhf-yes-green.svg
 [vnc-viewer-armv7-badge]: https://img.shields.io/badge/armv7-yes-green.svg
 [vnc-viewer-i386-badge]: https://img.shields.io/badge/i386-yes-green.svg
-[valetudo-mapper-files]: https://github.com/Poeschl-HomeAssistant-Addons/valetudo-mapper/tree/v1.12.0
-[valetudo-mapper-doc]: https://github.com/Poeschl-HomeAssistant-Addons/valetudo-mapper/blob/v1.12.0/README.md
+[valetudo-mapper-files]: https://github.com/Poeschl-HomeAssistant-Addons/valetudo-mapper/tree/cdce39a
+[valetudo-mapper-doc]: https://github.com/Poeschl-HomeAssistant-Addons/valetudo-mapper/blob/cdce39a/README.md
 [valetudo-mapper-issue]: https://github.com/Poeschl-HomeAssistant-Addons/valetudo-mapper/issues
-[valetudo-mapper-version-badge]: https://img.shields.io/badge/version-v1.12.0-blue.svg
+[valetudo-mapper-version-badge]: https://img.shields.io/badge/version-cdce39a-blue.svg
 [valetudo-mapper-aarch64-badge]: https://img.shields.io/badge/aarch64-yes-green.svg
 [valetudo-mapper-amd64-badge]: https://img.shields.io/badge/amd64-yes-green.svg
 [valetudo-mapper-armhf-badge]: https://img.shields.io/badge/armhf-yes-green.svg
