@@ -1,5 +1,5 @@
-## Changes in this version
+# Changelog since 1.2.1
+- Merge pull request #2 from Poeschl-HomeAssistant-Addons/add-package-updater
 
-### ⬆️ Dependency updates
-
-- ⬆️ Update git and python @Poeschl ([#1](https://github.com/Poeschl-HomeAssistant-Addons/juice-shop/pull/1))
+👷 Add package updater action 
+- 👷 Add package updater action 
