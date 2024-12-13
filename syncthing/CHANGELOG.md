@@ -1,9 +1,5 @@
-## Changes in this version
+# Changelog since 1.19.2
+- Merge pull request #4 from Poeschl-HomeAssistant-Addons/containerfile-dependency/syncthing
 
-### 🔨 Maintenance
-
-- ✨ Add package updater action for Dockerfile @Poeschl ([#2](https://github.com/Poeschl-HomeAssistant-Addons/syncthing/pull/2))
-
-### ⬆️ Dependency updates
-
-- ⬆️ Update syncthing to version 1.28.0-r0 @github-actions ([#3](https://github.com/Poeschl-HomeAssistant-Addons/syncthing/pull/3))
+⬆️ Update syncthing to version 1.28.1-r0 
+- ⬆️ Update syncthing to version 1.28.1-r0 
