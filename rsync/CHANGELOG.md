@@ -1,10 +1,9 @@
-# Changelog since 1.7.1
-- 📝 Fix missing - on example 
-- Merge pull request #4 from Poeschl-HomeAssistant-Addons/containerfile-dependency/rsync
+## Changes in this version
 
-⬆️ Update rsync to version 3.4.0-r0 
-- ⬆️ Update rsync to version 3.4.0-r0 
-- Merge pull request #2 from Poeschl-HomeAssistant-Addons/add-package-updater
+### 🔨 Maintenance
 
-👷 Add package updater action 
-- 👷 Add package updater action 
+- 👷 Add package updater action @Poeschl ([#2](https://github.com/Poeschl-HomeAssistant-Addons/rsync/pull/2))
+
+### ⬆️ Dependency updates
+
+- ⬆️ Update rsync to version 3.4.0-r0 @github-actions ([#4](https://github.com/Poeschl-HomeAssistant-Addons/rsync/pull/4))
