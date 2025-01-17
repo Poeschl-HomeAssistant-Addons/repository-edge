@@ -1,5 +1,5 @@
 name: rsync
-version: a88557d
+version: '2500820'
 slug: rsync
 description: Sync folders to a remote machine via ssh and rsync.
 url: https://github.com/Poeschl-HomeAssistant-Addons/rsync
