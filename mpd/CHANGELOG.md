@@ -1,5 +1,9 @@
-# Changelog since 1.7.3
-- Merge pull request #2 from Poeschl-HomeAssistant-Addons/add-package-updater
+## Changes in this version
 
-👷 Add package updater action 
-- 👷 Add package updater action 
+### 🔨 Maintenance
+
+- 👷 Add package updater action @Poeschl ([#2](https://github.com/Poeschl-HomeAssistant-Addons/mpd/pull/2))
+
+### 📚 Documentation
+
+- 📝 Updated docs about integration into HA @Poeschl ([#7](https://github.com/Poeschl-HomeAssistant-Addons/mpd/pull/7))
