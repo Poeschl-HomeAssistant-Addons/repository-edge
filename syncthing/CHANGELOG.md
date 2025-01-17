@@ -1,5 +1,5 @@
-# Changelog since 1.19.2
-- Merge pull request #4 from Poeschl-HomeAssistant-Addons/containerfile-dependency/syncthing
+## Changes in this version
 
-⬆️ Update syncthing to version 1.28.1-r0 
-- ⬆️ Update syncthing to version 1.28.1-r0 
+### ⬆️ Dependency updates
+
+- ⬆️ Update syncthing to version 1.28.1-r0 @github-actions ([#4](https://github.com/Poeschl-HomeAssistant-Addons/syncthing/pull/4))
