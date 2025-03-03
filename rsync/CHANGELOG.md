@@ -1,16 +1,23 @@
-# Changelog since 1.7.2
-- ♻️ Adjusted the folder mappings to new structure 
-- Merge pull request #6 from Poeschl-HomeAssistant-Addons/containerfile-dependency/openssh-client-default
+## Changes in this version
 
-⬆️ Update openssh-client-default to version 9.3_p2-r3 
-- Merge pull request #5 from MB901/feature-bidirectional-sync
+### 🚨 Breaking changes
 
-✨ bidirectional sync 
-- ⬆️ Update openssh-client-default to version 9.3_p2-r3 
-- 'config' folder has been replaced by 'homeassistant_config' and delete write access to prevent erasing 
-- Lists should be surrounded by blank lines 
-- use match to ensure only push or pull 
-- remove old remote_folder 
-- Create local directories if they don't exist 
-- Add bidirectional sync support with push/pull directions 
-- switch source/destination to local/remote 
+- The folder configuration changes in favor of the bidirectional sync. Please adjust your config to the new structure. A short glimpse:
+  ```yaml
+  folders:
+    - local: /config
+      remote: /home/user/config-target
+      direction: push
+    - local: /media/playlists
+      remote: /home/user/cool-playlists
+      options: '--archive --recursive --compress'
+      direction: pull
+  ```
+
+### ✨ New features
+
+- ✨ bidirectional sync @MB901 ([#5](https://github.com/Poeschl-HomeAssistant-Addons/rsync/pull/5))
+
+### ⬆️ Dependency updates
+
+- ⬆️ Update openssh-client-default to version 9.3_p2-r3 @[github-actions[bot]](https://github.com/apps/github-actions) ([#6](https://github.com/Poeschl-HomeAssistant-Addons/rsync/pull/6))
