@@ -1,5 +1,5 @@
 name: rsync
-version: 1.7.2
+version: 2986dea
 slug: rsync
 description: Sync folders to a remote machine via ssh and rsync.
 url: https://github.com/Poeschl-HomeAssistant-Addons/rsync
@@ -17,7 +17,7 @@ ports: {}
 ports_description: {}
 map:
 - share:rw
-- config:rw
+- homeassistant_config
 - backup:rw
 - addons:rw
 - ssl:rw
@@ -26,15 +26,17 @@ schema:
   private_key_file: match(^/ssl/.+)
   username: str
   folders:
-  - source: str
-    destination: str
+  - local: str
+    remote: str
     options: str?
+    direction: match(^pull$|^push$)?
   remote_host: str
   remote_port: port?
 options:
   private_key_file: /ssl/rsync/id_rsa
   username: user
   folders:
-  - source: /config
-    destination: /home/user
+  - local: /config
+    remote: /home/user
+    direction: push
   remote_host: ''
