@@ -1,4 +1,5 @@
 # Changelog since 1.7.2
+- ♻️ Adjusted the folder mappings to new structure 
 - Merge pull request #6 from Poeschl-HomeAssistant-Addons/containerfile-dependency/openssh-client-default
 
 ⬆️ Update openssh-client-default to version 9.3_p2-r3 
