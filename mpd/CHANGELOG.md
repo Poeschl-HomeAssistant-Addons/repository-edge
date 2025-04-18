@@ -1,5 +1,5 @@
-## Changes in this version
+# Changelog since 1.7.5
+- Merge pull request #9 from mrueg/bump-to-3.21
 
-### 🚀 Enhancements
-
-- 🔧 Prevent MPD from disconnecting listeners when playback stops @mrueg ([#8](https://github.com/Poeschl-HomeAssistant-Addons/mpd/pull/8))
+⬆️ Bump to alpine 3.21 and mpd 0.23.16 
+- Bump to alpine 3.21 and mpd 0.23.16 
