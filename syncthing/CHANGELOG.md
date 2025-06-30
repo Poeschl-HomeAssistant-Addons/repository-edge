@@ -1,5 +1,10 @@
-## Changes in this version
+# Changelog since 1.19.6
+- ⬆️ Update to syncthing 1.29.7.-r0 
+- Merge pull request #11 from salim-b/patch-1
 
-### ⬆️ Dependency updates
+docs: fix links 
+- Merge pull request #10 from Poeschl-HomeAssistant-Addons/containerfile-dependency/syncthing
 
-- ⬆️ Update syncthing to version 1.29.2-r2 @[github-actions[bot]](https://github.com/apps/github-actions) ([#9](https://github.com/Poeschl-HomeAssistant-Addons/syncthing/pull/9))
+⬆️ Update syncthing to version 1.29.3-r0 
+- docs: fix links 
+- ⬆️ Update syncthing to version 1.29.3-r0 
