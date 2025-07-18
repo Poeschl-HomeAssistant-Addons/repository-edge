@@ -1,13 +1,13 @@
-# Changelog since 1.5.3
-- Merge pull request #6 from Clam-/main
+## Changes in this version
 
-✨ Update config.yaml to expose i2c devices 
-- Merge pull request #7 from Poeschl-HomeAssistant-Addons/update-os-packages
+### ✨ New features
 
-⬆️ Update python-setuptools to 52.0.0-4+deb11u2 
-- ⬆️ Update python-setuptools to 52.0.0-4+deb11u2 for not-armhf 
-- Update config.yaml to expose i2c devices 
-- Merge pull request #3 from Poeschl-HomeAssistant-Addons/add-package-updater
+- ✨ Update config.yaml to expose i2c devices @Clam- ([#6](https://github.com/Poeschl-HomeAssistant-Addons/pigpio/pull/6))
 
-👷 Add package updater action 
-- 👷 Add package updater action 
+### 🔨 Maintenance
+
+- 👷 Add package updater action @Poeschl ([#3](https://github.com/Poeschl-HomeAssistant-Addons/pigpio/pull/3))
+
+### ⬆️ Dependency updates
+
+- ⬆️ Update python-setuptools to 52.0.0-4+deb11u2 @Poeschl ([#7](https://github.com/Poeschl-HomeAssistant-Addons/pigpio/pull/7))
