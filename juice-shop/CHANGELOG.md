@@ -1,6 +1,9 @@
-# Changelog since 1.2.1
-- Update addon-update-packages.yaml 
-- Merge pull request #2 from Poeschl-HomeAssistant-Addons/add-package-updater
+## Changes in this version
 
-👷 Add package updater action 
-- 👷 Add package updater action 
+### 🔨 Maintenance
+
+- 👷 Add package updater action @Poeschl ([#2](https://github.com/Poeschl-HomeAssistant-Addons/juice-shop/pull/2))
+
+### ⬆️ Dependency updates
+
+- ⬆️ Update Juice Shop Dockerfile to use v19.0.0 @Poeschl ([#3](https://github.com/Poeschl-HomeAssistant-Addons/juice-shop/pull/3))
