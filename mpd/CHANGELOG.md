@@ -1,6 +1,5 @@
-# Changelog since 1.8.1
-- Merge pull request #13 from Poeschl-HomeAssistant-Addons/containerfile-dependency/mpd
+## Changes in this version
 
-⬆️ Update mpd to version 0.24.5-r0 
-- ⬆️ Update mpd to version 0.24.5-r0 
-- Update addon-update-packages.yaml 
+### ⬆️ Dependency updates
+
+- ⬆️ Update mpd to version 0.24.5-r0 @Addon-Botter ([#13](https://github.com/Poeschl-HomeAssistant-Addons/mpd/pull/13))
