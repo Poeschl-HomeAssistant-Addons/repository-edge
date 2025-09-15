@@ -1,5 +1,5 @@
 name: ympd
-version: 0e14e83
+version: 877340a
 slug: ympd
 panel_icon: mdi:play-circle-outline
 description: A simple webfrontend for any mpd compatible music player.
