@@ -435,10 +435,10 @@ If you are here, seeking help, please look at the issues of the specific addon.
 [pigpio-armhf-badge]: https://img.shields.io/badge/armhf-yes-green.svg
 [pigpio-armv7-badge]: https://img.shields.io/badge/armv7-yes-green.svg
 [pigpio-i386-badge]: https://img.shields.io/badge/i386-no-red.svg
-[rsync-files]: https://github.com/Poeschl-HomeAssistant-Addons/rsync/tree/v2.0.0
-[rsync-doc]: https://github.com/Poeschl-HomeAssistant-Addons/rsync/blob/v2.0.0/README.md
+[rsync-files]: https://github.com/Poeschl-HomeAssistant-Addons/rsync/tree/0c945c1
+[rsync-doc]: https://github.com/Poeschl-HomeAssistant-Addons/rsync/blob/0c945c1/README.md
 [rsync-issue]: https://github.com/Poeschl-HomeAssistant-Addons/rsync/issues
-[rsync-version-badge]: https://img.shields.io/badge/version-v2.0.0-blue.svg
+[rsync-version-badge]: https://img.shields.io/badge/version-0c945c1-blue.svg
 [rsync-aarch64-badge]: https://img.shields.io/badge/aarch64-yes-green.svg
 [rsync-amd64-badge]: https://img.shields.io/badge/amd64-yes-green.svg
 [rsync-armhf-badge]: https://img.shields.io/badge/armhf-yes-green.svg
