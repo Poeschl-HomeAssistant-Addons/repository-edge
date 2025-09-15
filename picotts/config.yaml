@@ -1,5 +1,5 @@
 name: PicoTTS
-version: f003e8f
+version: cdd21ac
 slug: picotts
 description: Text to speech voice synthesizer from SVox, included in Android AOSP.
 url: https://github.com/Poeschl-HomeAssistant-Addons/picotts
