@@ -1,5 +1,5 @@
 name: VNC Viewer
-version: a29c04a
+version: a8a255f
 slug: vnc-viewer
 panel_icon: mdi:remote-desktop
 description: A noVNC client integrated in Home Assistant
