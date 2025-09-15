@@ -1,12 +1,9 @@
-# Changelog since 1.19.8
-- Merge pull request #19 from Poeschl-HomeAssistant-Addons/update-syncthing
+## Changes in this version
 
-⬆️ Update syncthing to 2.0.6 
-- ⬆️ Update syncthing to 2.0.6 
-- Merge pull request #18 from salim-b/patch-1
+### 📚 Documentation
 
-docs: tweaks 
-- 🐛 Fix package updater 
-- docs: tweaks
+- docs: tweaks @salim-b ([#18](https://github.com/Poeschl-HomeAssistant-Addons/syncthing/pull/18))
 
-ingress URL has changed in recent HA versions 
+### ⬆️ Dependency updates
+
+- ⬆️ Update syncthing to 2.0.6 @Poeschl ([#19](https://github.com/Poeschl-HomeAssistant-Addons/syncthing/pull/19))
