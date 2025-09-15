@@ -1,22 +1,12 @@
-# Changelog since 1.2.2
-- Merge pull request #7 from Poeschl-HomeAssistant-Addons/containerfile-dependency/git
+## Changes in this version
 
-⬆️ Update git to version 1:2.39.5-0+deb12u2 
-- Merge pull request #6 from Poeschl-HomeAssistant-Addons/containerfile-dependency/libfreetype6-dev
+### 🔨 Maintenance
 
-⬆️ Update libfreetype6-dev to version 2.12.1+dfsg-5+deb12u4 
-- Merge pull request #5 from Poeschl-HomeAssistant-Addons/containerfile-dependency/python3-setuptools
+- 👷 Add package updater action @Poeschl ([#2](https://github.com/Poeschl-HomeAssistant-Addons/pixelflut/pull/2))
 
-⬆️ Update python3-setuptools to version 66.1.1-1+deb12u2 
-- Merge pull request #4 from Poeschl-HomeAssistant-Addons/containerfile-dependency/libfreetype6
+### ⬆️ Dependency updates
 
-⬆️ Update libfreetype6 to version 2.12.1+dfsg-5+deb12u4 
-- ⬆️ Update git to version 1:2.39.5-0+deb12u2 
-- ⬆️ Update libfreetype6-dev to version 2.12.1+dfsg-5+deb12u4 
-- ⬆️ Update python3-setuptools to version 66.1.1-1+deb12u2 
-- ⬆️ Update libfreetype6 to version 2.12.1+dfsg-5+deb12u4 
-- Update addon-update-packages.yaml 
-- Merge pull request #2 from Poeschl-HomeAssistant-Addons/add-package-updater
-
-👷 Add package updater action 
-- 👷 Add package updater action 
+- ⬆️ Update libfreetype6 to version 2.12.1+dfsg-5+deb12u4 @Addon-Botter ([#4](https://github.com/Poeschl-HomeAssistant-Addons/pixelflut/pull/4))
+- ⬆️ Update python3-setuptools to version 66.1.1-1+deb12u2 @Addon-Botter ([#5](https://github.com/Poeschl-HomeAssistant-Addons/pixelflut/pull/5))
+- ⬆️ Update libfreetype6-dev to version 2.12.1+dfsg-5+deb12u4 @Addon-Botter ([#6](https://github.com/Poeschl-HomeAssistant-Addons/pixelflut/pull/6))
+- ⬆️ Update git to version 1:2.39.5-0+deb12u2 @Addon-Botter ([#7](https://github.com/Poeschl-HomeAssistant-Addons/pixelflut/pull/7))
