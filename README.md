@@ -336,10 +336,10 @@ If you are here, seeking help, please look at the issues of the specific addon.
 [mpd-armhf-badge]: https://img.shields.io/badge/armhf-yes-green.svg
 [mpd-armv7-badge]: https://img.shields.io/badge/armv7-yes-green.svg
 [mpd-i386-badge]: https://img.shields.io/badge/i386-yes-green.svg
-[marytts-files]: https://github.com/Poeschl-HomeAssistant-Addons/marytts/tree/1240376
-[marytts-doc]: https://github.com/Poeschl-HomeAssistant-Addons/marytts/blob/1240376/README.md
+[marytts-files]: https://github.com/Poeschl-HomeAssistant-Addons/marytts/tree/0c21bd8
+[marytts-doc]: https://github.com/Poeschl-HomeAssistant-Addons/marytts/blob/0c21bd8/README.md
 [marytts-issue]: https://github.com/Poeschl-HomeAssistant-Addons/marytts/issues
-[marytts-version-badge]: https://img.shields.io/badge/version-1240376-blue.svg
+[marytts-version-badge]: https://img.shields.io/badge/version-0c21bd8-blue.svg
 [marytts-aarch64-badge]: https://img.shields.io/badge/aarch64-yes-green.svg
 [marytts-amd64-badge]: https://img.shields.io/badge/amd64-yes-green.svg
 [marytts-armhf-badge]: https://img.shields.io/badge/armhf-yes-green.svg
