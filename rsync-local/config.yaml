@@ -1,5 +1,5 @@
 name: rsync local
-version: 70d689d
+version: a80a637
 slug: rsync-local
 description: Sync folders to a external usb drive with rsync.
 url: https://github.com/Poeschl-HomeAssistant-Addons/rsync-local
