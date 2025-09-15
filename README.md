@@ -345,10 +345,10 @@ If you are here, seeking help, please look at the issues of the specific addon.
 [marytts-armhf-badge]: https://img.shields.io/badge/armhf-yes-green.svg
 [marytts-armv7-badge]: https://img.shields.io/badge/armv7-yes-green.svg
 [marytts-i386-badge]: https://img.shields.io/badge/i386-yes-green.svg
-[mopidy-files]: https://github.com/Poeschl-HomeAssistant-Addons/mopidy/tree/6af307f
-[mopidy-doc]: https://github.com/Poeschl-HomeAssistant-Addons/mopidy/blob/6af307f/README.md
+[mopidy-files]: https://github.com/Poeschl-HomeAssistant-Addons/mopidy/tree/b14e601
+[mopidy-doc]: https://github.com/Poeschl-HomeAssistant-Addons/mopidy/blob/b14e601/README.md
 [mopidy-issue]: https://github.com/Poeschl-HomeAssistant-Addons/mopidy/issues
-[mopidy-version-badge]: https://img.shields.io/badge/version-6af307f-blue.svg
+[mopidy-version-badge]: https://img.shields.io/badge/version-b14e601-blue.svg
 [mopidy-aarch64-badge]: https://img.shields.io/badge/aarch64-no-red.svg
 [mopidy-amd64-badge]: https://img.shields.io/badge/amd64-yes-green.svg
 [mopidy-armhf-badge]: https://img.shields.io/badge/armhf-yes-green.svg
