@@ -444,10 +444,10 @@ If you are here, seeking help, please look at the issues of the specific addon.
 [rsync-armhf-badge]: https://img.shields.io/badge/armhf-yes-green.svg
 [rsync-armv7-badge]: https://img.shields.io/badge/armv7-yes-green.svg
 [rsync-i386-badge]: https://img.shields.io/badge/i386-yes-green.svg
-[rsync-local-files]: https://github.com/Poeschl-HomeAssistant-Addons/rsync-local/tree/61a642e
-[rsync-local-doc]: https://github.com/Poeschl-HomeAssistant-Addons/rsync-local/blob/61a642e/README.md
+[rsync-local-files]: https://github.com/Poeschl-HomeAssistant-Addons/rsync-local/tree/v1.7.2
+[rsync-local-doc]: https://github.com/Poeschl-HomeAssistant-Addons/rsync-local/blob/v1.7.2/README.md
 [rsync-local-issue]: https://github.com/Poeschl-HomeAssistant-Addons/rsync-local/issues
-[rsync-local-version-badge]: https://img.shields.io/badge/version-61a642e-blue.svg
+[rsync-local-version-badge]: https://img.shields.io/badge/version-v1.7.2-blue.svg
 [rsync-local-aarch64-badge]: https://img.shields.io/badge/aarch64-yes-green.svg
 [rsync-local-amd64-badge]: https://img.shields.io/badge/amd64-yes-green.svg
 [rsync-local-armhf-badge]: https://img.shields.io/badge/armhf-yes-green.svg
