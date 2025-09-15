@@ -1,14 +1,10 @@
-# Changelog since 1.6.2
-- Merge pull request #9 from Poeschl-HomeAssistant-Addons/containerfile-dependency/python3-setuptools
+## Changes in this version
 
-⬆️ Update python3-setuptools to version 66.1.1-1+deb12u2 
-- Merge pull request #8 from Poeschl-HomeAssistant-Addons/containerfile-dependency/git
+### 🔨 Maintenance
 
-⬆️ Update git to version 1:2.39.5-0+deb12u2 
-- ⬆️ Update python3-setuptools to version 66.1.1-1+deb12u2 
-- ⬆️ Update git to version 1:2.39.5-0+deb12u2 
-- Update addon-update-packages.yaml 
-- Merge pull request #3 from Poeschl-HomeAssistant-Addons/add-package-updater
+- 👷 Add package updater action @Poeschl ([#3](https://github.com/Poeschl-HomeAssistant-Addons/vnc-viewer/pull/3))
 
-👷 Add package updater action 
-- 👷 Add package updater action 
+### ⬆️ Dependency updates
+
+- ⬆️ Update git to version 1:2.39.5-0+deb12u2 @Addon-Botter ([#8](https://github.com/Poeschl-HomeAssistant-Addons/vnc-viewer/pull/8))
+- ⬆️ Update python3-setuptools to version 66.1.1-1+deb12u2 @Addon-Botter ([#9](https://github.com/Poeschl-HomeAssistant-Addons/vnc-viewer/pull/9))
