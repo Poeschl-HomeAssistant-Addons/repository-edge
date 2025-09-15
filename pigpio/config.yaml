@@ -1,5 +1,5 @@
 name: pigpio
-version: ee18f6e
+version: 30dd843
 slug: pigpio
 description: Control your pwm leds with pigpio on Home Assistant
 url: https://github.com/Poeschl-HomeAssistant-Addons/pigpio
