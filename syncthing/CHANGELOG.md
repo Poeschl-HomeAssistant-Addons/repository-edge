@@ -1,9 +1,5 @@
-# Changelog since 1.19.9
-- Merge pull request #22 from Poeschl-HomeAssistant-Addons/fix-syncthing-v2-startup
+## Changes in this version
 
-🐛 Fix restart loops by waiting for healthy Syncthing 
-- 🔧 Increase healthy timeout 
-- Apply suggestions from code review
+### 🐛 Bug fixes
 
-Co-authored-by: Copilot <175728472+Copilot@users.noreply.github.com> 
-- 🐛 Fix restart loops by waiting for healthy syncthing 
+- 🐛 Remove DB migration timeout @salim-b ([#24](https://github.com/Poeschl-HomeAssistant-Addons/syncthing/pull/24))
