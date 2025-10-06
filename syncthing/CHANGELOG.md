@@ -1,5 +1,6 @@
-## Changes in this version
+# Changelog since 1.19.11
+- Merge pull request #25 from salim-b/patch-1
 
-### 🐛 Bug fixes
-
-- 🐛 Remove DB migration timeout @salim-b ([#24](https://github.com/Poeschl-HomeAssistant-Addons/syncthing/pull/24))
+⬆️ Update syncthing to 2.0.10 
+- ⬆️ Update syncthing to 2.0.10 
+- ⬆️ Update syncthing to 2.0.9 
