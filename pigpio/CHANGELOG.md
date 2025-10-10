@@ -1,7 +1,5 @@
-## Changes in this version
+# Changelog since 2.0.0
+- Merge pull request #11 from Poeschl-HomeAssistant-Addons/containerfile-dependency/git
 
-- ⬆️ Update git to version 1:2.30.2-1+deb11u4 @Poeschl ([#8](https://github.com/Poeschl-HomeAssistant-Addons/pigpio/pull/8))
-
-### 🚨 Breaking changes
-
-- ⚰️ Remove arm 32bit compatibility due to package issues @Poeschl ([#9](https://github.com/Poeschl-HomeAssistant-Addons/pigpio/pull/9))
+⬆️ Update git to version 1:2.30.2-1+deb11u5 
+- ⬆️ Update git to version 1:2.30.2-1+deb11u5 
