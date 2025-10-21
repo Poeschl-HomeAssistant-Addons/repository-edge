@@ -1,13 +1,7 @@
-# Changelog since 1.19.12
-- Merge pull request #28 from salim-b/patch-3
+## Changes in this version
 
-⬆️ Update syncthing to 2.0.10-r2 
-- Merge pull request #27 from salim-b/patch-2
+### ⬆️ Dependency updates
 
-⬆️ Update Alpine Linux to 3.22 
-- ⬆️ Update syncthing to 2.0.10-r2 
-- ⬆️ Update Alpine Linux to 3.22 
-- Merge pull request #26 from salim-b/patch-1
-
-⬆️ Update syncthing to 2.0.10-r1 
-- ⬆️ Update syncthing to 2.0.10-r1 
+- ⬆️ Update syncthing to 2.0.10-r1 @salim-b ([#26](https://github.com/Poeschl-HomeAssistant-Addons/syncthing/pull/26))
+- ⬆️ Update Alpine Linux to 3.22 @salim-b ([#27](https://github.com/Poeschl-HomeAssistant-Addons/syncthing/pull/27))
+- ⬆️ Update syncthing to 2.0.10-r2 @salim-b ([#28](https://github.com/Poeschl-HomeAssistant-Addons/syncthing/pull/28))
