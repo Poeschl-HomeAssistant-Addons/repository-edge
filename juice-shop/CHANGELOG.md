@@ -1,9 +1,5 @@
-## Changes in this version
+# Changelog since 1.2.2
+- Merge pull request #4 from Poeschl-HomeAssistant-Addons/containerfile-dependency/python3
 
-### 🔨 Maintenance
-
-- 👷 Add package updater action @Poeschl ([#2](https://github.com/Poeschl-HomeAssistant-Addons/juice-shop/pull/2))
-
-### ⬆️ Dependency updates
-
-- ⬆️ Update Juice Shop Dockerfile to use v19.0.0 @Poeschl ([#3](https://github.com/Poeschl-HomeAssistant-Addons/juice-shop/pull/3))
+⬆️ Update python3 to version 3.12.12-r0 
+- ⬆️ Update python3 to version 3.12.12-r0 

@@ -354,10 +354,10 @@ If you are here, seeking help, please look at the issues of the specific addon.
 [mopidy-armhf-badge]: https://img.shields.io/badge/armhf-yes-green.svg
 [mopidy-armv7-badge]: https://img.shields.io/badge/armv7-yes-green.svg
 [mopidy-i386-badge]: https://img.shields.io/badge/i386-yes-green.svg
-[juice-shop-files]: https://github.com/Poeschl-HomeAssistant-Addons/juice-shop/tree/v1.2.2
-[juice-shop-doc]: https://github.com/Poeschl-HomeAssistant-Addons/juice-shop/blob/v1.2.2/README.md
+[juice-shop-files]: https://github.com/Poeschl-HomeAssistant-Addons/juice-shop/tree/d5a4915
+[juice-shop-doc]: https://github.com/Poeschl-HomeAssistant-Addons/juice-shop/blob/d5a4915/README.md
 [juice-shop-issue]: https://github.com/Poeschl-HomeAssistant-Addons/juice-shop/issues
-[juice-shop-version-badge]: https://img.shields.io/badge/version-v1.2.2-blue.svg
+[juice-shop-version-badge]: https://img.shields.io/badge/version-d5a4915-blue.svg
 [juice-shop-aarch64-badge]: https://img.shields.io/badge/aarch64-no-red.svg
 [juice-shop-amd64-badge]: https://img.shields.io/badge/amd64-yes-green.svg
 [juice-shop-armhf-badge]: https://img.shields.io/badge/armhf-no-red.svg
