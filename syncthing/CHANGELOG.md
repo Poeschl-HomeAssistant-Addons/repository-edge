@@ -1,5 +1,5 @@
-## Changes in this version
+# Changelog since 1.19.12
+- Merge pull request #26 from salim-b/patch-1
 
-### ⬆️ Dependency updates
-
-- ⬆️ Update syncthing to 2.0.10 @salim-b ([#25](https://github.com/Poeschl-HomeAssistant-Addons/syncthing/pull/25))
+⬆️ Update syncthing to 2.0.10-r1 
+- ⬆️ Update syncthing to 2.0.10-r1 
