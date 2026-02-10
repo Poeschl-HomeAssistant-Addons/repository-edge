@@ -1,9 +1,9 @@
-## Changes in this version
+# Changelog since 1.19.14
+- Merge pull request #32 from salim-b/patch-2
 
-### 🚀 Enhancements
+📝 Remove obsolete insecure admin access note 
+- 📝 Remove obsolete insecure admin access note
 
-- ✨ Allow to customize `STDATADIR` @salim-b ([#23](https://github.com/Poeschl-HomeAssistant-Addons/syncthing/pull/23))
+This had been fixed a while ago via IP detection:
 
-### ⬆️ Dependency updates
-
-- ⬆️ Update syncthing to 2.0.14-r0 @salim-b ([#31](https://github.com/Poeschl-HomeAssistant-Addons/syncthing/pull/31))
+https://github.com/Poeschl-HomeAssistant-Addons/syncthing/blob/f88109a74401aae4fbafd777302cbef97a292166/syncthing/root/etc/s6-overlay/s6-rc.d/syncthing/run#L7-L8 
