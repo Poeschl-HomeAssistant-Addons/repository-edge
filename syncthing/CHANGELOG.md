@@ -1,9 +1,9 @@
-# Changelog since 1.19.14
-- Merge pull request #32 from salim-b/patch-2
+## Changes in this version
 
-📝 Remove obsolete insecure admin access note 
-- 📝 Remove obsolete insecure admin access note
+### 📚 Documentation
 
-This had been fixed a while ago via IP detection:
+- 📝 Remove obsolete insecure admin access note @salim-b ([#32](https://github.com/Poeschl-HomeAssistant-Addons/syncthing/pull/32))
 
-https://github.com/Poeschl-HomeAssistant-Addons/syncthing/blob/f88109a74401aae4fbafd777302cbef97a292166/syncthing/root/etc/s6-overlay/s6-rc.d/syncthing/run#L7-L8 
+### ⬆️ Dependency updates
+
+- ⬆️ Update syncthing to 2.0.15-r0 @salim-b ([#33](https://github.com/Poeschl-HomeAssistant-Addons/syncthing/pull/33))
