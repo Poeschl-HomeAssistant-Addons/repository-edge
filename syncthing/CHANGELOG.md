@@ -1,10 +1,5 @@
-# Changelog since 1.19.15
-- Merge pull request #35 from Poeschl-HomeAssistant-Addons/remove-unsupported-archs
+## Changes in this version
 
-🔥 Remove unsupported 32-bit architectures (i386, armhf, armv7) 
-- 🔥 Remove unsupported 32-bit architectures (i386, armhf, armv7) 
-- Merge pull request #34 from salim-b/patch-2
+### ⬆️ Dependency updates
 
-⬆️ Update syncthing to v2.1.1-r0 
-- ⬆️ Update syncthing to v2.1.1-r0 
-- ⬆️ Update syncthing to v2.0.16-r1 
+- ⬆️ Update syncthing to v2.1.2-r0 @salim-b ([#36](https://github.com/Poeschl-HomeAssistant-Addons/syncthing/pull/36))
