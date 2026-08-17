@@ -1,5 +1,5 @@
-## Changes in this version
+# Changelog since 1.8.2
+- Merge pull request #14 from mrueg/alpine-3.23
 
-### ⬆️ Dependency updates
-
-- ⬆️ Update mpd to version 0.24.5-r0 @Addon-Botter ([#13](https://github.com/Poeschl-HomeAssistant-Addons/mpd/pull/13))
+⬆️ Bump to alpine 3.24, drop 32bit architectures 
+- Bump to alpine 3.24, drop 32bit architectures 
