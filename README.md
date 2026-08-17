@@ -333,9 +333,9 @@ If you are here, seeking help, please look at the issues of the specific addon.
 [mpd-version-badge]: https://img.shields.io/badge/version-v1.8.2-blue.svg
 [mpd-aarch64-badge]: https://img.shields.io/badge/aarch64-yes-green.svg
 [mpd-amd64-badge]: https://img.shields.io/badge/amd64-yes-green.svg
-[mpd-armhf-badge]: https://img.shields.io/badge/armhf-yes-green.svg
-[mpd-armv7-badge]: https://img.shields.io/badge/armv7-yes-green.svg
-[mpd-i386-badge]: https://img.shields.io/badge/i386-yes-green.svg
+[mpd-armhf-badge]: https://img.shields.io/badge/armhf-no-red.svg
+[mpd-armv7-badge]: https://img.shields.io/badge/armv7-no-red.svg
+[mpd-i386-badge]: https://img.shields.io/badge/i386-no-red.svg
 [marytts-files]: https://github.com/Poeschl-HomeAssistant-Addons/marytts/tree/0c21bd8
 [marytts-doc]: https://github.com/Poeschl-HomeAssistant-Addons/marytts/blob/0c21bd8/README.md
 [marytts-issue]: https://github.com/Poeschl-HomeAssistant-Addons/marytts/issues
